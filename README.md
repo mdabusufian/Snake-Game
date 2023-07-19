@@ -2,4 +2,4 @@
 The traditional Basic Snake Game.
 
 ## Screenshot
-https://github.com/mdabusufian/Snake-Game/blob/main/snakegame.JPG
+![Snake Game](https://github.com/mdabusufian/Snake-Game/blob/main/snakegame.JPG)
